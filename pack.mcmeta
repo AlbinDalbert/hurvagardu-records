@@ -1,4 +1,12 @@
 {
-"pack": { "pack_format": 1, "description": "NCS House"
-}
+	"language": {
+    	"en_us": {
+      		"region": "US",
+      		"name": "English",
+      		"bidirectional": false
+    	}
+	},
+	"pack": { 
+		"pack_format": 1, "description": "Some Good As Music"
+	}
 }
