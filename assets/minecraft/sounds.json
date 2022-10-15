@@ -7,11 +7,23 @@
 			    "stream": true
 		    },
 		    {
-			    "name": "music/game/GoodTime",
+			    "name": "music/game/goodtime",
+			    "stream": true
+		    },
+            {
+			    "name": "music/game/end/sub",
+			    "stream": true
+		    },
+            {
+			    "name": "music/game/nether/forbidden",
+			    "stream": true
+		    },
+            {
+			    "name": "music/game/nether/redteam",
 			    "stream": true
 		    },
 		    {
-			    "name": "music/game/Testing",
+			    "name": "music/game/testing",
 			    "stream": true
 		    }
 	    ]
